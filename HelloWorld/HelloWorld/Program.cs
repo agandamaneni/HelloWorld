@@ -10,7 +10,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World...!!! I am in GitHub...Huu");
-            Console.WriteLine("Hello World...!!! I am in GitHub HelloWorld1 branch...Huu");
+            Console.WriteLine("Hello World...!!! I am in GitHub hw1 branch...Huu");
             Console.ReadLine();
         }
     }
