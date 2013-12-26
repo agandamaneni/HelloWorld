@@ -2,3 +2,5 @@ D:\Ashok Demos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 D:\Ashok Demos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 D:\Ashok Demos\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
 D:\Ashok Demos\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+G:\Demo Projects\GIT\HelloWorld\HelloWorld-Dev\HelloWorld\obj\x86\Debug\HelloWorld.exe
+G:\Demo Projects\GIT\HelloWorld\HelloWorld-Dev\HelloWorld\obj\x86\Debug\HelloWorld.pdb
