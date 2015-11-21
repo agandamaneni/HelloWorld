@@ -1,0 +1,10 @@
+E:\MGI\HelloWorld\MongoDBConnector\bin\Debug\MongoDBConnector.dll
+E:\MGI\HelloWorld\MongoDBConnector\bin\Debug\MongoDBConnector.pdb
+E:\MGI\HelloWorld\MongoDBConnector\bin\Debug\MongoDB.Bson.dll
+E:\MGI\HelloWorld\MongoDBConnector\bin\Debug\MongoDB.Driver.Core.dll
+E:\MGI\HelloWorld\MongoDBConnector\bin\Debug\MongoDB.Driver.dll
+E:\MGI\HelloWorld\MongoDBConnector\bin\Debug\MongoDB.Bson.xml
+E:\MGI\HelloWorld\MongoDBConnector\bin\Debug\MongoDB.Driver.xml
+E:\MGI\HelloWorld\MongoDBConnector\obj\Debug\MongoDBConnector.csprojResolveAssemblyReference.cache
+E:\MGI\HelloWorld\MongoDBConnector\obj\Debug\MongoDBConnector.dll
+E:\MGI\HelloWorld\MongoDBConnector\obj\Debug\MongoDBConnector.pdb

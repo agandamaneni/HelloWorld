@@ -1,0 +1,6 @@
+E:\MGI\HelloWorld\NLog.Common.Targets\bin\Debug\NLog.Common.Targets.dll
+E:\MGI\HelloWorld\NLog.Common.Targets\bin\Debug\NLog.Common.Targets.pdb
+E:\MGI\HelloWorld\NLog.Common.Targets\bin\Debug\NLog.dll
+E:\MGI\HelloWorld\NLog.Common.Targets\bin\Debug\NLog.xml
+E:\MGI\HelloWorld\NLog.Common.Targets\obj\Debug\NLog.Common.Targets.dll
+E:\MGI\HelloWorld\NLog.Common.Targets\obj\Debug\NLog.Common.Targets.pdb
